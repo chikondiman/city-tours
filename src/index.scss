@@ -8,3 +8,9 @@ $mainBlack:#222;
 $mainGreen:#82b340;
 $mainGrey:#ececec;
 $mainWhite:#fff;
+
+body{
+    background:$mainGrey
+    color: $mainGreen;
+    font-family: font-family: 'Open Sans', sans-serif;
+}
